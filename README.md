@@ -1,5 +1,5 @@
 # PowerBI-Workshop
-Using PowerBI on Production Data
+Using PowerBI on oil production data
 
 <img src="https://user-images.githubusercontent.com/65777681/101692607-12069b80-3a36-11eb-8573-e8ed180025ad.PNG" width="600">
 
